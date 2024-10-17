@@ -1,2 +1,2 @@
 # my-first-repo
-My first repo for git training
+My first repo for `git` training
