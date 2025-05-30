@@ -10,7 +10,7 @@ def generate_data():
 def plot_data(x, y):
     """Plots y = x^2"""
     plt.figure(figsize=(8, 5))
-    plt.plot(x, y, label="y = x²", color='purple')
+    plt.plot(x, y, label="y = x²", color='blue')
     plt.title("Plot of y = x²")
     plt.xlabel("x")
     plt.ylabel("y")
